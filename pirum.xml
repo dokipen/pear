@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>dokipen.github.com/pear</name>
+  <summary>dokipen's PEAR Channel Server</summary>
+  <alias>dokipen</alias>
+  <url>http://dokipen.github.com/pear</url>
+</server>
