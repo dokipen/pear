@@ -6,5 +6,16 @@
         <name>http://dokipen.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>Embedly 0.1.0 (beta)</title>
+        <link href="http://dokipen.github.com/pear/get/Embedly-0.1.0.tgz" />
+        <id>Embedly-0.1.0</id>
+        <author>
+            <name>dokipen</name>
+        </author>
+        <updated>2011-02-15T15:38:59-05:00</updated>
+        <content>
+            blah
+        </content>
+    </entry>
 </feed>
