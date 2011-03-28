@@ -3,6 +3,10 @@
     <p>Embedly</p>
     <c>dokipen.github.com/pear</c>
     <r>
+        <v>0.2.0</v>
+        <s>beta</s>
+    </r>
+    <r>
         <v>0.1.0</v>
         <s>beta</s>
     </r>

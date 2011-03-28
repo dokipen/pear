@@ -4,7 +4,7 @@
 <c>dokipen.github.com/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
 <l>MIT</l>
-<s>blah</s>
-<d>blah</d>
+<s>Embedly API</s>
+<d>Embedly client library for PHP</d>
 <r xlink:href="/rest/r/embedly" />
 </p>
