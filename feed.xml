@@ -7,13 +7,24 @@
     </author>
 
     <entry>
+        <title>Embedly 0.4.0 (beta)</title>
+        <link href="http://dokipen.github.com/pear/get/Embedly-0.4.0.tgz" />
+        <id>Embedly-0.4.0</id>
+        <author>
+            <name>dokipen</name>
+        </author>
+        <updated>2012-01-13T15:25:06+00:00</updated>
+        <content>
+            Embedly client library for PHP
+        </content>
+    </entry>    <entry>
         <title>Embedly 0.3.0 (beta)</title>
         <link href="http://dokipen.github.com/pear/get/Embedly-0.3.0.tgz" />
         <id>Embedly-0.3.0</id>
         <author>
             <name>dokipen</name>
         </author>
-        <updated>2011-05-23T16:08:05-04:00</updated>
+        <updated>2011-05-23T16:08:05+00:00</updated>
         <content>
             Embedly client library for PHP
         </content>
@@ -24,7 +35,7 @@
         <author>
             <name>dokipen</name>
         </author>
-        <updated>2011-03-28T12:08:10-04:00</updated>
+        <updated>2011-03-28T12:08:10+00:00</updated>
         <content>
             Embedly client library for PHP
         </content>
@@ -35,7 +46,7 @@
         <author>
             <name>dokipen</name>
         </author>
-        <updated>2011-02-15T15:38:59-05:00</updated>
+        <updated>2011-02-15T15:38:59+00:00</updated>
         <content>
             Embedly client library for PHP
         </content>

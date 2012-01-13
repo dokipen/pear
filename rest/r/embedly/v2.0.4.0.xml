@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/embedly">Embedly</p>
+    <c>dokipen.github.com/pear</c>
+    <v>0.4.0</v>
+    <a>0.4.0</a>
+    <mp>5.3.1</mp>
+    <st>beta</st>
+    <l>MIT</l>
+    <m>dokipen</m>
+    <s>Embedly API</s>
+    <d>Embedly client library for PHP</d>
+    <da>2012-01-13 15:25:06</da>
+    <n>
+-
+ </n>
+    <f>2932</f>
+    <g>http://dokipen.github.com/pear/get/Embedly-0.4.0</g>
+    <x xlink:href="package.0.4.0.xml"/>
+</r>
